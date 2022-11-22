@@ -1,0 +1,10 @@
+<launch>
+
+<node pkg="harmony_segmentation" exec="SemanticSegmentor" name="SemanticSegmentor">
+<param name="compressed" value="1"/>
+ <param name="path_to_weights" value="/home/nickybones/Code/harmony_segmentation/ros2_ws/src/harmony_segmentation/harmony_segmentation/model.pth"/>
+ <param name="image_topic" value="/kinect_master/rgb/image_raw/compressed"/>
+</node>
+
+
+</launch>
