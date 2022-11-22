@@ -2,7 +2,6 @@
 
 This repository contains the deliverable code for Task 3.2 (D3.3) for ROS1 Noetic and ROS2 Foxy, tested on Ubuntu 20.04.
 
-
 The code is based on the work developed for the paper *Robust Double-Encoder Network for RGB-D Panoptic Segmentation*, submitted to the IEEE International Conference on Robotics and Automation (ICRA) 2023 ([link](https://arxiv.org/abs/2210.02834)):
 
 ```
