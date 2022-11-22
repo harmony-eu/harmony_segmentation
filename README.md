@@ -27,3 +27,6 @@ Package the repo to allow inner imports, then run `python main.py --weights_file
 
 ### ROS2
 Execute `colcon build`, `. install/setup.bash`, then move your launch file into the `share` directory, and finally `ros2 launch <package> <launchfile>.
+
+### Weights
+Coming soon.
